@@ -2,7 +2,7 @@
   "name": "myportfoliosite",
   "version": "0.1.0",
   "private": true,
-   "devDependencies": {
+  "devDependencies": {
     "react-scripts": "3.4.1"
   },
   "dependencies": {
