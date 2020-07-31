@@ -19,7 +19,7 @@ export default class Contact extends Component {
                     </i>
                 </span>
                 <span>
-                    (469) 558-3728
+              
                 </span>
             </div>
             <div>

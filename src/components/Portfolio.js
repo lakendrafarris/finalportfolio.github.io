@@ -11,7 +11,7 @@ export default class Portfolio extends Component {
                         <div className="columns portfolio-item">
                             <div className="item-wrap">
                                 <a href="#modal-01">
-                                <img src="https://xtnotes-1255646395.coshk.myqcloud.com/images/react-1.svg" className="item-img"/>
+                                <img src="https://xtnotes-1255646395.coshk.myqcloud.com/images/react-1.svg" alt="item-img"/>
                                 <div className="overlay">
                                     <div className="portfolio-item-meta">
                                         <h5>HTOWN App</h5>
@@ -24,7 +24,7 @@ export default class Portfolio extends Component {
                         <div className="columns portfolio-item">
                             <div className="item-wrap">
                                 <a href="#modal-01">
-                                <img src="https://xtnotes-1255646395.coshk.myqcloud.com/images/react-1.svg" className="item-img"/>
+                                <img src="https://xtnotes-1255646395.coshk.myqcloud.com/images/react-1.svg" alt="item-img"/>
                                 <div className="overlay">
                                     <div className="portfolio-item-meta">
                                         <h5>My Recipe Hampers</h5>
