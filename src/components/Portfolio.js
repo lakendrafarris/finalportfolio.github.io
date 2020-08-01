@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 
+
 export default class Portfolio extends Component {
     render() {
         return (
@@ -11,7 +12,7 @@ export default class Portfolio extends Component {
                         <div className="columns portfolio-item">
                             <div className="item-wrap">
                                 <a href='http://cumbersome-art.surge.sh/?fbclid=IwAR0r5xAwgEuqBOEJqLQhPnV4yJj_gcVypW18I3hCzlc1WSA6_Gg-WRHCRB8'>
-                                <img src="https://xtnotes-1255646395.coshk.myqcloud.com/images/react-1.svg" alt="item-img"/>
+                                <img src="imgs/htown.png" alt="htown"/> 
                                 <div className="overlay">
                                     <div className="portfolio-item-meta">
                                         <h5>HTOWN App</h5>
@@ -24,7 +25,7 @@ export default class Portfolio extends Component {
                         <div className="columns portfolio-item">
                             <div className="item-wrap">
                                 <a href="http://cumbersome-art.surge.sh/?fbclid=IwAR0r5xAwgEuqBOEJqLQhPnV4yJj_gcVypW18I3hCzlc1WSA6_Gg-WRHCRB8">
-                                <img src="https://xtnotes-1255646395.coshk.myqcloud.com/images/react-1.svg" alt="item-img"/>
+                                <img src="imgs/foodrecipe.png" alt="foodrecipe"/>
                                 <div className="overlay">
                                     <div className="portfolio-item-meta">
                                         <h5>My Recipe Hampers</h5>
