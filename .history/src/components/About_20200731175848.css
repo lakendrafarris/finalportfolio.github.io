@@ -1,0 +1,13 @@
+  img {
+    width: 1300rem;
+    height: 375px;
+  }
+  .row {
+    display: flex;
+  }
+  .col-8 {
+    float: right;
+  }
+  .col-2 {
+    float: left;
+  }

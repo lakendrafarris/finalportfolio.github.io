@@ -1,0 +1,21 @@
+  img {
+    width: 650rem;
+    height: 40rem;
+  }
+  .row {
+    display: flex;
+  }
+  .col-8 {
+    float: right;
+    text-align: center;
+  }
+  .col-2 {
+    float: left;
+    margin: 7rem;
+    padding: 2rem;
+  }
+  .socialI {
+    margin: 0.6rem;
+    padding: 0.2rem;
+    align-self: right;
+  }

@@ -1,0 +1,15 @@
+  img {
+    width: 650rem;
+    height: 40rem;
+  }
+  .row {
+    display: flex;
+  }
+  .col-8 {
+    float: right;
+  }
+  .col-2 {
+    float: left;
+    margin: 15rem;
+    padding: 5rem;
+  }
