@@ -10,7 +10,7 @@ export default class Portfolio extends Component {
                     <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
                         <div className="columns portfolio-item">
                             <div className="item-wrap">
-                                <a href="#modal-01">
+                                <a href='http://cumbersome-art.surge.sh/?fbclid=IwAR0r5xAwgEuqBOEJqLQhPnV4yJj_gcVypW18I3hCzlc1WSA6_Gg-WRHCRB8'>
                                 <img src="https://xtnotes-1255646395.coshk.myqcloud.com/images/react-1.svg" alt="item-img"/>
                                 <div className="overlay">
                                     <div className="portfolio-item-meta">
@@ -23,7 +23,7 @@ export default class Portfolio extends Component {
                         </div>
                         <div className="columns portfolio-item">
                             <div className="item-wrap">
-                                <a href="#modal-01">
+                                <a href="http://cumbersome-art.surge.sh/?fbclid=IwAR0r5xAwgEuqBOEJqLQhPnV4yJj_gcVypW18I3hCzlc1WSA6_Gg-WRHCRB8">
                                 <img src="https://xtnotes-1255646395.coshk.myqcloud.com/images/react-1.svg" alt="item-img"/>
                                 <div className="overlay">
                                     <div className="portfolio-item-meta">
