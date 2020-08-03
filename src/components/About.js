@@ -14,7 +14,7 @@ export default class About extends Component {
                 </div>
                 <div className="row banner">
                     <div className="banner-text"> 
-                    <div class="boxed">
+                    <div className="boxed">
                         <p>
                             I am an enthusiastic software engineer attending Digital Crafts Houston to be completed in July 2020
                             and is eager to join the technology industry. As I am an Army veteran, I enjoy being challenged and engaged with projects that require me to work 
