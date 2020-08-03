@@ -13,8 +13,8 @@ export default class Resume extends Component {
                                 title='My resume'
                                 allowFullScreen
                                 allowTransparency
-                                src={require('../docs/Resume.pdf')}
-                                style={{ height: '100%' }, {width: '100%'}}
+                                src={require('../docs/Resume.pdf')} height="100" width="100%"
+                          
                             />
                         </div>
                         <div className="row">
